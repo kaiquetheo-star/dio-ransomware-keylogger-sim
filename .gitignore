@@ -1,0 +1,19 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Laboratorio (artefatos gerados — nunca versionar chave/manifesto/log)
+lab/
+
+# Chaves, e-mails capturados e segredos
+*.key
+*.eml
+.env
+
+# Saida de comandos
+results/
+
+# SO / editor
+Thumbs.db
+.DS_Store
